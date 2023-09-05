@@ -6,8 +6,8 @@ settings:
 
 dependencies:
   '@reacted/date-picker':
-    specifier: ^1.0.0
-    version: 1.0.0(react-dom@16.14.0)(react@16.14.0)
+    specifier: 1.0.2
+    version: 1.0.2(react-dom@16.14.0)(react@16.14.0)
   element-plus:
     specifier: 2.1.8
     version: 2.1.8(@types/lodash-es@4.17.9)(vue@3.3.4)
@@ -88,8 +88,8 @@ packages:
     resolution: {integrity: sha512-P1st0aksCrn9sGZhp8GMYwBnQsbvAWsZAX44oXNNvLHGqAOcoVxmjZiohstwQ7SqKnbR47akdNi+uleWD8+g6A==}
     dev: false
 
-  /@reacted/date-picker@1.0.0(react-dom@16.14.0)(react@16.14.0):
-    resolution: {integrity: sha512-bxp5OMo0SRJJlUG6ICbV1n83DIKQs2zhbqiEzPBQCAScQzoq3/q/sxDf/ZnzLzOAku1wxoUKySHPC39DfhE4iQ==}
+  /@reacted/date-picker@1.0.2(react-dom@16.14.0)(react@16.14.0):
+    resolution: {integrity: sha512-jEGRmWgoPFQMr2gn4g9yQEtmj+Ca7Ss/ASk5dC1pQxoQ8VorXTj4f9sTOGlzHoc2ploqI52N5ANKaGtB4XJ+uA==}
     dependencies:
       '@beisen-phoenix/icon': 1.0.22(react-dom@16.14.0)(react@16.14.0)
       '@beisen-phoenix/style-token': 1.0.39

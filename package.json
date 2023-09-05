@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@reacted/date-picker": "^1.0.0",
+    "@reacted/date-picker": "1.0.2",
     "element-plus": "2.1.8"
   }
 }
